@@ -1,7 +1,9 @@
 
 The joke that was made
 
-    doesn't really matter
+    Nobody really remembers...
 
-on 2022-03-28
+on 2022-03-14
+    
+If you know that he's been funny again, add the new joke [here](https://forms.gle/z8fhvfisUHKKajbv8)
     
