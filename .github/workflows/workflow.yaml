@@ -25,7 +25,7 @@ jobs:
           python run.py
         env:
           key: ${{ secrets.key }}
-          client_payload: ${{ github.event.client_payload.1604150654 }}
+          data: ${{ github.event.client_payload.data }}
       - name: Deploy 🚀
         # if: github.ref == 'refs/heads/gh-pages'
         uses: JamesIves/github-pages-deploy-action@4.1.1
