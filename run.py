@@ -1,8 +1,10 @@
 import os
 from datetime import date
 from pathlib import Path
+import json
 
-data = os.environ.get("data")
+data = json.loads(os.environ.get("data"))
+
 if data:
     joke = data.get("1604150654")
     today = date.today().strftime("%Y-%m-%d")
