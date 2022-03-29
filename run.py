@@ -9,7 +9,6 @@ if data:
     joke = data.get("1604150654")
     today = date.today().strftime("%Y-%m-%d")
     cool_date = data.get("824302638", today)
-    date.now
     full_text = f"""
     The joke that was made
     ```
