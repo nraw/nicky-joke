@@ -20,5 +20,9 @@ else:
         "No idea what's happening, but this ain't working correctly. Blame kaki."
     )
 
+
+    full_text += """
+If you know that he's been funny again, add the new joke [here](https://forms.gle/z8fhvfisUHKKajbv8)
+    """
 print(data)
 Path("what.md").write_text(full_text)
