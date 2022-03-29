@@ -10,11 +10,11 @@ if data:
     today = date.today().strftime("%Y-%m-%d")
     cool_date = data.get("824302638", today)
     full_text = f"""
-    The joke that was made
-    ```
+The joke that was made
+
     {joke}
-    ```
-    on {cool_date}
+
+on {cool_date}
     """
 else:
     full_text = (
@@ -26,4 +26,4 @@ else:
 If you know that he's been funny again, add the new joke [here](https://forms.gle/z8fhvfisUHKKajbv8)
     """
 print(data)
-Path("what.md").write_text(full_text)
+Path("index.md").write_text(full_text)
