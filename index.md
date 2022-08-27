@@ -1,9 +1,9 @@
 
 The joke that was made
 
-    What do you call a male cougar? A creep
+    You can lead the bon johvi because it's your life now and you're half way there
 
-on 2022-06-25
+on 
     
 If you know that he's been funny again, add the new joke [here](https://forms.gle/z8fhvfisUHKKajbv8)
     
